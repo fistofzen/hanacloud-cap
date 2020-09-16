@@ -19,7 +19,5 @@ File / Folder | Purpose
 - ( in VSCode simply choose _**Terminal** > Run Task > cds watch_ )
 - Start adding content, e.g. a [db/schema.cds](db/schema.cds), ...
 
-
-## Learn more...
-
+ 
 Learn more at https://cap.cloud.sap/docs/get-started/
